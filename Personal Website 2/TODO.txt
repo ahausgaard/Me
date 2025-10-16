@@ -1,0 +1,5 @@
+1. Popup or Modal window for each project in my portfolio.
+    Use <dialog> + JS to do it.
+2. A CV - Make it prettier with more advanced grid.
+3. Make the Contact page work with sending an email. 
+    (Nice to have for now)
